@@ -55,7 +55,7 @@ li {
   margin-bottom: 10px;
 }
 .profile-photo {
-  width: 50;
+  width: 50px;
   height: 50px;
   object-fit: cover;
   border-radius: 50%;
@@ -78,3 +78,4 @@ li {
   
 
 </body></html>
+![myphoto](https://github.com/user-attachments/assets/c9d3cc8e-fbb8-483c-91e6-dde5aec8c10b)
