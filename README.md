@@ -1,3 +1,5 @@
+
+
 <!-- saved from url=(0022)http://localhost:3000/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -61,7 +63,7 @@ li {
   border-radius: 50%;
   margin-bottom: 20px;
 }
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9BcHAuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQWdCO0VBQ2hCLFlBQVk7RUFDWixhQUFhO0VBQ2IsZ0NBQWdDO0FBQ2xDOztBQUVBO0VBQ0UsV0FBVztBQUNiOztBQUVBO0VBQ0UsZ0JBQWdCO0VBQ2hCLGVBQWU7QUFDakI7O0FBRUE7RUFDRSxtQkFBbUI7QUFDckI7QUFDQTtFQUNFLFNBQVM7RUFDVCxZQUFZO0VBQ1osaUJBQWlCO0VBQ2pCLGtCQUFrQjtFQUNsQixtQkFBbUI7QUFDckIiLCJzb3VyY2VzQ29udGVudCI6WyIuQXBwIHtcbiAgbWF4LXdpZHRoOiA4MDBweDtcbiAgbWFyZ2luOiBhdXRvO1xuICBwYWRkaW5nOiAyMHB4O1xuICBmb250LWZhbWlseTogJ0FyaWFsJywgc2Fucy1zZXJpZjtcbn1cblxuaDEsIGgyIHtcbiAgY29sb3I6ICMzMzM7XG59XG5cbnVsIHtcbiAgbGlzdC1zdHlsZTogbm9uZTtcbiAgcGFkZGluZy1sZWZ0OiAwO1xufVxuXG5saSB7XG4gIG1hcmdpbi1ib3R0b206IDEwcHg7XG59XG4ucHJvZmlsZS1waG90byB7XG4gIHdpZHRoOiA1MDtcbiAgaGVpZ2h0OiA1MHB4O1xuICBvYmplY3QtZml0OiBjb3ZlcjtcbiAgYm9yZGVyLXJhZGl1czogNTAlO1xuICBtYXJnaW4tYm90dG9tOiAyMHB4O1xufSJdLCJzb3VyY2VSb290IjoiIn0= */</style></head>
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9BcHAuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQWdCO0VBQ2hCLFlBQVk7RUFDWixhQUFhO0VBQ2IsZ0NBQWdDO0FBQ2xDOztBQUVBO0VBQ0UsV0FBVztBQUNiOztBQUVBO0VBQ0UsZ0JBQWdCO0VBQ2hCLGVBQWU7QUFDakI7O0FBRUE7RUFDRSxtQkFBbUI7QUFDckI7QUFDQTtFQUNFLFdBQVc7RUFDWCxZQUFZO0VBQ1osaUJBQWlCO0VBQ2pCLGtCQUFrQjtFQUNsQixtQkFBbUI7QUFDckIiLCJzb3VyY2VzQ29udGVudCI6WyIuQXBwIHtcbiAgbWF4LXdpZHRoOiA4MDBweDtcbiAgbWFyZ2luOiBhdXRvO1xuICBwYWRkaW5nOiAyMHB4O1xuICBmb250LWZhbWlseTogJ0FyaWFsJywgc2Fucy1zZXJpZjtcbn1cblxuaDEsIGgyIHtcbiAgY29sb3I6ICMzMzM7XG59XG5cbnVsIHtcbiAgbGlzdC1zdHlsZTogbm9uZTtcbiAgcGFkZGluZy1sZWZ0OiAwO1xufVxuXG5saSB7XG4gIG1hcmdpbi1ib3R0b206IDEwcHg7XG59XG4ucHJvZmlsZS1waG90byB7XG4gIHdpZHRoOiA1MHB4O1xuICBoZWlnaHQ6IDUwcHg7XG4gIG9iamVjdC1maXQ6IGNvdmVyO1xuICBib3JkZXItcmFkaXVzOiA1MCU7XG4gIG1hcmdpbi1ib3R0b206IDIwcHg7XG59Il0sInNvdXJjZVJvb3QiOiIifQ== */</style></head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"><div class="App"><img alt="Profile" class="profile-photo" src="./myresume_files/myphoto.cb5aca42fa07d431d48f.jpg"><h1>Nireeksha Padmegowda</h1><p><strong>Email:</strong> nireekshapadmegowda2194@gmail.com</p><p><strong>Phone:</strong> 8660590922</p><p><strong>Address:</strong> Aasare nilaya , hemavathi nagar ,hassan</p><h2>Education</h2><table border="1" cellpadding="10"><thead><tr><th>School</th><th>Degree</th><th>Year</th></tr></thead><tbody><tr><td>United Academy</td><td>B.E Computer Science</td><td>2022 - 2026</td></tr></tbody></table><h2>Skills</h2><table border="1" cellpadding="10"><tbody><tr><td>Python</td><td>HTML</td><td>CSS</td><td>c++</td></tr></tbody></table><h2>Projects</h2><table border="1" cellpadding="10"><thead><tr><th>Title</th><th>Description</th></tr></thead><tbody><tr><td>adhar card seeding portal</td><td>linking adhar number to bank account</td></tr><tr><td>Weather App</td><td>Displays weather using OpenWeather API</td></tr></tbody></table></div></div>
@@ -78,4 +80,3 @@ li {
   
 
 </body></html>
-![myphoto](https://github.com/user-attachments/assets/c9d3cc8e-fbb8-483c-91e6-dde5aec8c10b)
