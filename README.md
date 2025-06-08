@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/assets/99612b7a-7497-4d60-8991-051ccd781aed)
 <!-- saved from url=(0022)http://localhost:3000/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -78,4 +77,4 @@ li {
     -->
   
 
-</body></html>![myphoto](https://github.com/user-attachments/assets/b56c97e3-fa1a-4426-a0a1-b5239345109c)
+</body></html>
