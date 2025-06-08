@@ -81,3 +81,4 @@ li {
 
 </body></html>
 "C:\Users\hp\Downloads\myresume_files\myphoto.cb5aca42fa07d431d48f.jpg"
+![myphoto cb5aca42fa07d431d48f](https://github.com/user-attachments/assets/e03f9e2f-f948-4bfa-ab19-c8959f7d953c)
