@@ -1,4 +1,3 @@
-![myphoto cb5aca42fa07d431d48f](https://github.com/user-attachments/assets/6766d0d4-57bd-4583-b5f3-e93dcf91eea2)
 
 <!-- saved from url=(0022)http://localhost:3000/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
