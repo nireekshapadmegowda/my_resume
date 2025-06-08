@@ -1,4 +1,4 @@
-
+"C:\Users\hp\Downloads\myresume_files\myphoto.cb5aca42fa07d431d48f.jpg"
 
 <!-- saved from url=(0022)http://localhost:3000/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -80,5 +80,4 @@ li {
   
 
 </body></html>
-"C:\Users\hp\Downloads\myresume_files\myphoto.cb5aca42fa07d431d48f.jpg"
-[myphoto cb5aca42fa07d431d48f]
+
